@@ -3,7 +3,10 @@
 Welcome to my GitHub! I'm a passionate developer with a keen interest in open-source projects, and developing useful tools and applications to solve real-world problems. Here's a quick overview of my work and interests.
 
 ## 🌟 Highlighted Projects
-- under progress :)
+- Portfolio website : https://github.com/abhinavsingh1311/mixtape-lab.git
+- Digital Logic Simulator: https://github.com/abhinavsingh1311/DigitalLogicSimulator.git
+- Rate Limit API service: https://github.com/abhinavsingh1311/rate-limit-service.git
+- Plant Care Mobile App: https://github.com/abhinavsingh1311/plant_mobile_app.git
 
 ## 🛠 Skills and Technologies
 
