@@ -13,7 +13,6 @@ Welcome to my GitHub! I'm a passionate developer with a keen interest in open-so
 - Languages: C#, JavaScript, C++ , SQL (Microsoft SQL Server Management Studio - MSSMS)
 - Frameworks: React, Blazor
 - Tools: Docker, Git
-- DSA: 100+ questions on Leetcode
 - Proficient in OOPs
 ## 📫 How to Reach Me
 
