@@ -34,7 +34,7 @@ I enjoy crafting interactive experiences and building tools that make a differen
 | [Plant Care App](https://github.com/abhinavsingh1311/plant_mobile_app) | Mobile app for plant care tracking and reminders |
 | [Resume Scanner](https://github.com/abhinavsingh1311/resume-scanner) | Automated resume parsing and analysis tool |
 | [Mixtape Card Generator](https://github.com/abhinavsingh1311/mixtape-card-generator) | Generate custom mixtape-style cards |
-| [WebHook Service](https://github.com/abhinavsingh1311/webhook-delivery-service) | Reliable webhook delivery with automatic retries and guaranteed delivery |
+| [WebHook Service](https://github.com/abhinavsingh1311/webhooks-delivery-service.git) | Reliable webhook delivery with automatic retries and guaranteed delivery |
 
 ## Let's Connect
 
