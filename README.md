@@ -1,4 +1,4 @@
-# Hi, I'm Abhinav Singh 👋
+# Hi, I'm Abhinav Singh
 
 Welcome to my GitHub! I'm a passionate developer with a keen interest in open-source projects, building useful tools and applications that solve real-world problems.
 
@@ -35,6 +35,7 @@ I enjoy crafting interactive experiences and building tools that make a differen
 | [Resume Scanner](https://github.com/abhinavsingh1311/resume-scanner) | Automated resume parsing and analysis tool |
 | [Mixtape Card Generator](https://github.com/abhinavsingh1311/mixtape-card-generator) | Generate custom mixtape-style cards |
 | [WebHook Service](https://github.com/abhinavsingh1311/webhooks-delivery-service.git) | Reliable webhook delivery with automatic retries and guaranteed delivery |
+| [City-maps](https://github.com/abhinavsingh1311/city-maps.git)| Visualize city road networks using OpenStreetMap data |
 
 ## Let's Connect
 
