@@ -36,6 +36,7 @@ I enjoy crafting interactive experiences and building tools that make a differen
 | [Mixtape Card Generator](https://github.com/abhinavsingh1311/mixtape-card-generator) | Generate custom mixtape-style cards |
 | [WebHook Service](https://github.com/abhinavsingh1311/webhooks-delivery-service.git) | Reliable webhook delivery with automatic retries and guaranteed delivery |
 | [City-maps](https://github.com/abhinavsingh1311/city-maps.git)| Visualize city road networks using OpenStreetMap data |
+| [Roast as a service](https://github.com/abhinavsingh1311/roast-api) |Configurable roasts provided as an API Service|
 
 ## Let's Connect
 
